@@ -17,7 +17,7 @@ An employee or manager would benefit greatly from being able to view non-sensiti
 
 ## Snapshot
 
-![Employee Directory](./public/img/capture.PNG)
+![Employee Directory](./public/img/Capture.PNG)
 
 ## Github repository and deployed application
 
