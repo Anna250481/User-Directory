@@ -19,5 +19,9 @@ An employee or manager would benefit greatly from being able to view non-sensiti
 
 ![Employee Directory](./public/img/Capture.PNG)
 
-## Github repository and deployed application
+## Github page
+
+- https://anna250481.github.io/User-Directory/.
+
+- https://github.com/Anna250481/User-Directory
 
